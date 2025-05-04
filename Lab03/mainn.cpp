@@ -55,7 +55,7 @@ int main() {
     
 //    Task 3
 //	Person p;
-//	p.setPerson(19, "Tayyab");
+//	p.setPerson(19, "Fatima");
 //    p.showPerson();
 //    Student s;
 //    s.setStudent(17, "Ali", 34);
