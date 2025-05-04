@@ -11,7 +11,7 @@ int main() {
 //    cout << "Original account:" << endl;
 //    acc1.showBalance();
 //
-//    // Deep copy using custom copy constructor
+//    // Shallow copy using custom copy constructor
 //    BankAccount acc2 = acc1;
 //
 //    cout << "\nAfter copying to acc2:" << endl;
