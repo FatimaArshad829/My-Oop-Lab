@@ -11,9 +11,9 @@
 //        balance = new double(bal);
 //    }
 //
-//    // Deep Copy Constructor
+//    // Shallow Copy Constructor
 //    BankAccount(const BankAccount& other) {
-//        balance = new double(*other.balance);
+//        balance = other.balance;
 //    }
 //
 //    // Destructor
